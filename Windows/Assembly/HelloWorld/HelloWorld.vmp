@@ -1,0 +1,51 @@
+{
+	"Version": 2,
+	"Project": {
+		"Name": "HelloWorld.exe",
+		"Id": "38734C0E-E64B-4868-A91C-273B5DFEA240",
+		"FileName": "C:\\Users\\Deebo-PC\\Documents\\Visual Studio 2022\\assembly\\HelloWorld\\HelloWorld.vmp",
+		"Created": "8/18/2024 8:46:01 PM",
+		"Type": "ptWin64",
+		"PreAssembleEventCommandLine": "",
+		"AssembleEventCommandLine": "",
+		"PostAssembleEventCommandLine": "",
+		"PreLinkEventCommandLine": "",
+		"LinkEventCommandLine": "",
+		"AdditionalLinkSwitches": "",
+		"AdditionalLinkFiles": "",
+		"PostLinkEventCommandLine": "",
+		"LibraryPath": "C:\\Program Files (x86)\\Windows Kits\\10\\Lib\\10.0.22000.0\\um\\x64",
+		"OutputFolder": "C:\\Users\\Deebo-PC\\Documents\\Visual Studio 2022\\assembly\\HelloWorld\\",
+		"OutputFile": "\"C:\\Users\\Deebo-PC\\Documents\\Visual Studio 2022\\assembly\\HelloWorld\\Release\\HelloWorld.exe\"",
+		"SizeInBytes": 0,
+		"Build": true
+	},
+	"Files": [
+		{
+			"Id": "12B1F19C-DA06-4C3D-9030-891C85FAEBBE",
+			"Name": "Manifest.xml",
+			"Created": "8/18/2024 8:46:01 PM",
+			"Type": "pftManifest",
+			"Path": "C:\\Users\\Deebo-PC\\Documents\\Visual Studio 2022\\assembly\\HelloWorld\\",
+			"IsOpen": false,
+			"AssembleFile": false,
+			"ChildFileRCId": "",
+			"ChildFileASMId": "",
+			"ParentFileId": "",
+			"OutputFile": ""
+		},
+		{
+			"Id": "118A6383-4721-4956-84AC-C56DFDBE3E80",
+			"Name": "HelloWorld.asm",
+			"Created": "8/18/2024 8:46:01 PM",
+			"Type": "pftASM",
+			"Path": "C:\\Users\\Deebo-PC\\Documents\\Visual Studio 2022\\assembly\\HelloWorld\\",
+			"IsOpen": true,
+			"AssembleFile": true,
+			"ChildFileRCId": "",
+			"ChildFileASMId": "",
+			"ParentFileId": "",
+			"OutputFile": "\"C:\\Users\\Deebo-PC\\Documents\\Visual Studio 2022\\assembly\\HelloWorld\\Release\\HelloWorld.obj\""
+		}
+	]
+}
